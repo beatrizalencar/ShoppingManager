@@ -51,17 +51,17 @@ public class NovoJFrame extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/frame/Webp.net-resizeimage (1).png"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Webp.net-resizeimage (1).png"))); // NOI18N
 
         jLabel8.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(0, 102, 153));
         jLabel8.setText("SHOPPING MANAGER");
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/frame/Webp.net-resizeimage (8).png"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Webp.net-resizeimage (8).png"))); // NOI18N
 
         jSeparator4.setForeground(new java.awt.Color(0, 102, 153));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/frame/Webp.net-resizeimage (6).png"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagens/Webp.net-resizeimage (6).png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
